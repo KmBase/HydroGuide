@@ -13,3 +13,10 @@ Navigation of Open source projects related to hydrology and hydrodynamics.
 
 **Address:**
 [https://github.com/lreis2415/SEIMS](https://github.com/lreis2415/SEIMS)
+
+# GisGuide
+# GeodePy 
+**Language:**
+ Python
+**Introduction:**
+ A toolkit for Geodesy and Surveying in Python 
